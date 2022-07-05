@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-05T07:16:38.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="IR0qieAHpyCEXrR9cm_o" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T07:27:03.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="7oV_fvmEaTsfXrOlRI1n" version="20.0.4" type="github">
   <diagram id="vAAK2xrO6STrd_4l6eV2" name="Page-1">
-    <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1718" dy="915" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,16 +65,22 @@
           <mxGeometry x="234" y="187" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zpYF9BhXSGG7KeCdsb85-39" value="" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;rounded=0;shadow=0;fillColor=#CCFFE6;opacity=70;" parent="1" vertex="1">
-          <mxGeometry x="671" y="429" width="60" height="100" as="geometry" />
+          <mxGeometry x="594" y="418" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zpYF9BhXSGG7KeCdsb85-40" value="卖出申请" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="682" y="467" width="77" height="33" as="geometry" />
+          <mxGeometry x="539" y="462.5" width="77" height="33" as="geometry" />
         </mxCell>
         <mxCell id="zpYF9BhXSGG7KeCdsb85-41" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;rounded=0;shadow=0;fillColor=#CCFFE6;opacity=70;" parent="1" vertex="1">
           <mxGeometry x="352" y="197" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zpYF9BhXSGG7KeCdsb85-42" value="增容申请" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="356" y="181" width="77" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="uV9A_zQVC8zqMW9gGsio-1" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;rounded=0;shadow=0;fillColor=#CCFFE6;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="785.5" y="418" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uV9A_zQVC8zqMW9gGsio-2" value="卖出单在有效时间范围内，&lt;br&gt;立即结算卖出费用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="825" y="447" width="165" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
