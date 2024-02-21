@@ -1,0 +1,306 @@
+<mxfile host="app.diagrams.net" modified="2024-02-21T10:53:47.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="63FaRj4r0ifLyEtT9NKR" version="23.1.5" type="github">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="1430" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-2" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="60" y="70" width="20" height="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-4" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;申请人" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="20" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-5" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="150" y="72" width="20" height="1158" as="geometry" />
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-6" value="调度审批人" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="120" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-7" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="240" y="70" width="20" height="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-8" value="司机1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="225" y="30" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-10" value="用车申请" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="450" y="72" width="100" height="1158" as="geometry" />
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="D4wGT1ROHJTCQSgqDbSM-10" vertex="1">
+          <mxGeometry x="45" y="78" width="10" height="202" as="geometry" />
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-32" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="D4wGT1ROHJTCQSgqDbSM-10" vertex="1">
+          <mxGeometry x="45" y="338" width="10" height="212" as="geometry" />
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-37" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="D4wGT1ROHJTCQSgqDbSM-10" vertex="1">
+          <mxGeometry x="50" y="394" width="10" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-38" value="生成调度单()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="D4wGT1ROHJTCQSgqDbSM-10" target="D4wGT1ROHJTCQSgqDbSM-37" edge="1">
+          <mxGeometry x="0.0053" relative="1" as="geometry">
+            <mxPoint x="55" y="374" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="404" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-57" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="D4wGT1ROHJTCQSgqDbSM-10" vertex="1">
+          <mxGeometry x="45" y="583" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-64" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="D4wGT1ROHJTCQSgqDbSM-10" vertex="1">
+          <mxGeometry x="45" y="644" width="10" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="iRKj_t9lV5PbNATAyeAQ-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="D4wGT1ROHJTCQSgqDbSM-10">
+          <mxGeometry x="45" y="693" width="10" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="iRKj_t9lV5PbNATAyeAQ-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="D4wGT1ROHJTCQSgqDbSM-10">
+          <mxGeometry x="50" y="765" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iRKj_t9lV5PbNATAyeAQ-5" value="检查所有未结束子流程&lt;br&gt;是否已出行" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="iRKj_t9lV5PbNATAyeAQ-4" parent="D4wGT1ROHJTCQSgqDbSM-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="718" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="55" y="748" />
+              <mxPoint x="85" y="748" />
+              <mxPoint x="85" y="783" />
+            </Array>
+            <mxPoint x="60" y="748.0344827586207" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRKj_t9lV5PbNATAyeAQ-31" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="D4wGT1ROHJTCQSgqDbSM-10">
+          <mxGeometry x="50" y="838" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iRKj_t9lV5PbNATAyeAQ-32" value="删除所有异常结束的流程" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="iRKj_t9lV5PbNATAyeAQ-31" parent="D4wGT1ROHJTCQSgqDbSM-10">
+          <mxGeometry x="0.0053" relative="1" as="geometry">
+            <mxPoint x="55" y="818" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="848" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-11" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="340" y="70" width="20" height="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-13" value="司机2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="325" y="30" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-15" value="提交用车申请()" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" source="D4wGT1ROHJTCQSgqDbSM-2" target="D4wGT1ROHJTCQSgqDbSM-14" edge="1">
+          <mxGeometry x="-0.0009" relative="1" as="geometry">
+            <mxPoint x="425" y="155" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-18" value="通知审批人" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="D4wGT1ROHJTCQSgqDbSM-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495" y="192.9999999999999" as="sourcePoint" />
+            <mxPoint x="165" y="192.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-19" value="同意" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="160" y="245" as="sourcePoint" />
+            <mxPoint x="495" y="244.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-25" value="不同意，通知申请人修改" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="D4wGT1ROHJTCQSgqDbSM-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="344" as="sourcePoint" />
+            <mxPoint x="69.81034482758628" y="344" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-27" value="ALT" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="130" y="200" width="400" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-28" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=1.002;entryY=0.558;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" target="D4wGT1ROHJTCQSgqDbSM-27" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="130" y="290" as="sourcePoint" />
+            <mxPoint x="520" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-29" value="不同意" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="160" y="315" as="sourcePoint" />
+            <mxPoint x="495" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-30" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495" y="268" as="sourcePoint" />
+            <mxPoint x="159.81034482758628" y="268" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-31" value="通知调度审批人，调度车辆" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D4wGT1ROHJTCQSgqDbSM-30" vertex="1" connectable="0">
+          <mxGeometry x="0.1697" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-36" value="提交调度单list()" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="160" y="420" as="sourcePoint" />
+            <mxPoint x="495" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-39" value="工作流" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="760" y="70" width="100" height="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-44" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="D4wGT1ROHJTCQSgqDbSM-39" vertex="1">
+          <mxGeometry x="45" y="80" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-46" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="D4wGT1ROHJTCQSgqDbSM-39" vertex="1">
+          <mxGeometry x="45" y="160" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-43" value="提交主流程至&lt;font color=&quot;#ff0000&quot;&gt;待审批&lt;/font&gt;()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" target="D4wGT1ROHJTCQSgqDbSM-44" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="505" y="169" as="sourcePoint" />
+            <mxPoint x="809.5" y="169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-45" value="审批主流程节点至&lt;font color=&quot;#ff0080&quot;&gt;待调度&lt;/font&gt;()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" source="D4wGT1ROHJTCQSgqDbSM-14" target="D4wGT1ROHJTCQSgqDbSM-46" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="540" y="250" as="sourcePoint" />
+            <mxPoint x="620" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-47" value="LOOP" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="425" y="430" width="405" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-48" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;遍历调度单&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="425" y="460" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-49" value="提交子流程至&lt;font color=&quot;#ff3399&quot;&gt;待接单&lt;/font&gt;()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="510" y="486.5" as="sourcePoint" />
+            <mxPoint x="809.5" y="486.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-50" value="审批主流程节点至&lt;font color=&quot;#ff3399&quot;&gt;待出行&lt;/font&gt;()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="505" y="608" as="sourcePoint" />
+            <mxPoint x="809.5" y="608" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-55" value="通知司机1接单" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" source="D4wGT1ROHJTCQSgqDbSM-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="547.9300000000001" as="sourcePoint" />
+            <mxPoint x="249.81034482758628" y="547.9300000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-56" value="通知司机2接单" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495" y="508.5" as="sourcePoint" />
+            <mxPoint x="349.8103448275863" y="508.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-58" value="司机1同意接单()" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" target="D4wGT1ROHJTCQSgqDbSM-57" edge="1">
+          <mxGeometry x="0.0013" relative="1" as="geometry">
+            <mxPoint x="249.81034482758628" y="660" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-59" value="审批子流程节点至&lt;font color=&quot;#ff3399&quot;&gt;待出行&lt;/font&gt;()," style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" source="D4wGT1ROHJTCQSgqDbSM-57" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="665" y="748" as="sourcePoint" />
+            <mxPoint x="809.5" y="675" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-61" value="司机2同意接单()" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;" parent="1" target="D4wGT1ROHJTCQSgqDbSM-64" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="349.8103448275863" y="716" as="sourcePoint" />
+            <mxPoint x="655" y="801" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D4wGT1ROHJTCQSgqDbSM-62" value="审批子流程节点至&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ff3399&quot;&gt;待出行&lt;/font&gt;()," style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="0.0023" width="80" relative="1" as="geometry">
+            <mxPoint x="505" y="739" as="sourcePoint" />
+            <mxPoint x="809.5" y="739" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRKj_t9lV5PbNATAyeAQ-2" value="司机1出行开始()" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="iRKj_t9lV5PbNATAyeAQ-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="249.81034482758628" y="770" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRKj_t9lV5PbNATAyeAQ-3" value="司机2出行开始()" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="349.8103448275863" y="790" as="sourcePoint" />
+            <mxPoint x="495" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRKj_t9lV5PbNATAyeAQ-6" value="审批主流程节点至&lt;font color=&quot;#ff3399&quot;&gt;出行中&lt;/font&gt;()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0006" width="80" relative="1" as="geometry">
+            <mxPoint x="511" y="866" as="sourcePoint" />
+            <mxPoint x="810.5" y="866" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRKj_t9lV5PbNATAyeAQ-8" value="审批子流程节点至&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ff3399&quot;&gt;出行中&lt;/font&gt;()," style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0023" width="80" relative="1" as="geometry">
+            <mxPoint x="505" y="795" as="sourcePoint" />
+            <mxPoint x="809.5" y="795" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRKj_t9lV5PbNATAyeAQ-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="496" y="990" width="10" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="iRKj_t9lV5PbNATAyeAQ-18" value="司机1提交行程记录()" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1" target="iRKj_t9lV5PbNATAyeAQ-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250.81034482758628" y="995" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRKj_t9lV5PbNATAyeAQ-19" value="司机1提交行程记录（）" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350.8103448275863" y="1015" as="sourcePoint" />
+            <mxPoint x="496" y="1015" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRKj_t9lV5PbNATAyeAQ-21" value="审批子流程节点至&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ff3399&quot;&gt;行程记录审核&lt;/font&gt;()," style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0023" width="80" relative="1" as="geometry">
+            <mxPoint x="506" y="1020" as="sourcePoint" />
+            <mxPoint x="810.5" y="1020" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRKj_t9lV5PbNATAyeAQ-22" value="通知调度人审核行程" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="496" y="1043.5000000000002" as="sourcePoint" />
+            <mxPoint x="159.81034482758628" y="1043.5000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRKj_t9lV5PbNATAyeAQ-24" value="审核通过()" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" target="iRKj_t9lV5PbNATAyeAQ-11">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="160" y="1065" as="sourcePoint" />
+            <mxPoint x="220" y="1065" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRKj_t9lV5PbNATAyeAQ-26" value="审批子流程节点至&lt;font color=&quot;#ff3399&quot;&gt;出行结束()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="iRKj_t9lV5PbNATAyeAQ-11">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="530" y="1075" as="sourcePoint" />
+            <mxPoint x="809.5" y="1082.5000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRKj_t9lV5PbNATAyeAQ-33" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="500" y="1110" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iRKj_t9lV5PbNATAyeAQ-34" value="检查是否所有子流程已结束" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="iRKj_t9lV5PbNATAyeAQ-33" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505" y="1090" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="535" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRKj_t9lV5PbNATAyeAQ-36" value="审批主流程节点至&lt;font color=&quot;#ff3399&quot;&gt;结束&lt;/font&gt;()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.5;entryY=0.946;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iRKj_t9lV5PbNATAyeAQ-11" target="D4wGT1ROHJTCQSgqDbSM-39">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="510" y="1170" as="sourcePoint" />
+            <mxPoint x="590" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRKj_t9lV5PbNATAyeAQ-37" value="&lt;b&gt;车辆调度全流程&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=130;height=20;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="880" height="1240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
