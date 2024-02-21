@@ -1,9 +1,291 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T02:44:37.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.5" etag="VeykI7fuKZw6mAHy3PNW" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T08:49:32.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="GdWTKuHwCZCYQuFUL2Zl" version="23.1.5" type="github">
   <diagram name="第 1 页" id="aXcOtmcwqD40-IplEOml">
-    <mxGraphModel>
+    <mxGraphModel dx="2593" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-106" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="90" width="2135" height="659" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-6" value="待审批" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-106">
+          <mxGeometry x="133" y="64" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-10" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-106">
+          <mxGeometry x="298" y="54" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-106" source="gm9_kd5wZLlUvfbRDpWR-6" target="gm9_kd5wZLlUvfbRDpWR-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-12" value="待调度" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-106">
+          <mxGeometry x="448" y="64" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-106" source="gm9_kd5wZLlUvfbRDpWR-10" target="gm9_kd5wZLlUvfbRDpWR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-18" value="同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gm9_kd5wZLlUvfbRDpWR-13">
+          <mxGeometry x="-0.0667" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;strokeWidth=2;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-106" source="gm9_kd5wZLlUvfbRDpWR-14" target="gm9_kd5wZLlUvfbRDpWR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-14" value="待提交" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-106">
+          <mxGeometry x="133" y="189" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;strokeWidth=2;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-106" source="gm9_kd5wZLlUvfbRDpWR-10" target="gm9_kd5wZLlUvfbRDpWR-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="338" y="219" />
+              <mxPoint x="253" y="219" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-17" value="审批不通过，原因" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gm9_kd5wZLlUvfbRDpWR-15">
+          <mxGeometry x="-0.3176" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-36" value="用车申请主流程" style="swimlane;verticalAlign=middle;fontFamily=Verdana;direction=north;html=1;flipH=0;flipV=1;horizontal=1;whiteSpace=wrap;startSize=23;labelPosition=center;verticalLabelPosition=middle;align=center;fillColor=#dae8fc;shadow=0;swimlaneFillColor=none;strokeColor=#6c8ebf;gradientColor=#7ea6e0;gradientDirection=east;glass=0;rounded=0;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-106">
+          <mxGeometry width="2120" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-36">
+          <mxGeometry x="30" y="69" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-76" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;strokeColor=#6c8ebf;swimlaneFillColor=none;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=#7ea6e0;gradientDirection=east;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-36">
+          <mxGeometry x="580" y="119" width="70" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;strokeWidth=2;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-36" source="gm9_kd5wZLlUvfbRDpWR-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="865" y="135" as="sourcePoint" />
+            <mxPoint x="510" y="125" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1250" y="220" />
+              <mxPoint x="510" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-27" value="重新调度，原因：司机不接单&lt;br&gt;或取消出行" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gm9_kd5wZLlUvfbRDpWR-26">
+          <mxGeometry x="0.0157" relative="1" as="geometry">
+            <mxPoint x="70" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-36" source="gm9_kd5wZLlUvfbRDpWR-20" target="gm9_kd5wZLlUvfbRDpWR-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-22" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-36">
+          <mxGeometry x="1210" y="51.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-28" value="出行中" style="whiteSpace=wrap;html=1;strokeWidth=2;shadow=0;glass=0;fillStyle=auto;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-36">
+          <mxGeometry x="1510" y="61.5" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-36" source="gm9_kd5wZLlUvfbRDpWR-22" target="gm9_kd5wZLlUvfbRDpWR-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-80" value="所有子流&lt;br&gt;程出行开始" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];shadow=0;strokeColor=#6c8ebf;swimlaneFillColor=none;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=#7ea6e0;gradientDirection=east;" vertex="1" connectable="0" parent="gm9_kd5wZLlUvfbRDpWR-29">
+          <mxGeometry x="-0.1512" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-34" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-36">
+          <mxGeometry x="2040" y="76.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-36" source="gm9_kd5wZLlUvfbRDpWR-28" target="gm9_kd5wZLlUvfbRDpWR-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1480" y="91.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-35" value="出行结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-36">
+          <mxGeometry x="2030" y="106.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-20" value="待出行" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-36">
+          <mxGeometry x="680" y="62.5" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-82" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;strokeColor=#6c8ebf;swimlaneFillColor=none;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=#7ea6e0;gradientDirection=east;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-36">
+          <mxGeometry x="1380" y="122.5" width="80" height="231" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-96" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;strokeColor=#6c8ebf;swimlaneFillColor=none;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=#7ea6e0;gradientDirection=east;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-36">
+          <mxGeometry x="1070" y="234" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-99" value="所有子流程已出行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-36">
+          <mxGeometry x="1405" y="249" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-100" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;strokeColor=#6c8ebf;swimlaneFillColor=none;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=#7ea6e0;gradientDirection=east;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-36">
+          <mxGeometry x="2020" y="139" width="70" height="241" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-9" value="草稿" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-36">
+          <mxGeometry x="30" y="122.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-106" source="gm9_kd5wZLlUvfbRDpWR-5" target="gm9_kd5wZLlUvfbRDpWR-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="88" y="94" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-106" source="gm9_kd5wZLlUvfbRDpWR-12" target="gm9_kd5wZLlUvfbRDpWR-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-75" value="创建调度单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];shadow=0;strokeColor=#6c8ebf;swimlaneFillColor=none;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=#7ea6e0;gradientDirection=east;" vertex="1" connectable="0" parent="gm9_kd5wZLlUvfbRDpWR-21">
+          <mxGeometry x="-0.2768" y="1" relative="1" as="geometry">
+            <mxPoint x="3" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-39" value="待接单" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-106">
+          <mxGeometry x="725" y="392" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-41" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-106">
+          <mxGeometry x="900" y="382" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-106" source="gm9_kd5wZLlUvfbRDpWR-39" target="gm9_kd5wZLlUvfbRDpWR-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-43" value="待出行" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-106">
+          <mxGeometry x="1040" y="392" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-106" source="gm9_kd5wZLlUvfbRDpWR-41" target="gm9_kd5wZLlUvfbRDpWR-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-49" value="接单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];shadow=0;strokeColor=#6c8ebf;swimlaneFillColor=none;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=#7ea6e0;gradientDirection=east;" vertex="1" connectable="0" parent="gm9_kd5wZLlUvfbRDpWR-44">
+          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-45" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-106">
+          <mxGeometry x="1210" y="382" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-106" source="gm9_kd5wZLlUvfbRDpWR-43" target="gm9_kd5wZLlUvfbRDpWR-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-47" value="出行中" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-106">
+          <mxGeometry x="1380" y="392" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-106" source="gm9_kd5wZLlUvfbRDpWR-45" target="gm9_kd5wZLlUvfbRDpWR-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-50" value="出行开始" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];shadow=0;strokeColor=#6c8ebf;swimlaneFillColor=none;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=#7ea6e0;gradientDirection=east;" vertex="1" connectable="0" parent="gm9_kd5wZLlUvfbRDpWR-48">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-51" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-106">
+          <mxGeometry x="1583" y="382" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-106" source="gm9_kd5wZLlUvfbRDpWR-47" target="gm9_kd5wZLlUvfbRDpWR-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-53" value="行程记录审核" style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcc99;strokeColor=#36393d;gradientColor=#FF99CC;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-106">
+          <mxGeometry x="1710" y="392" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-106" source="gm9_kd5wZLlUvfbRDpWR-51" target="gm9_kd5wZLlUvfbRDpWR-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;curved=0;strokeWidth=2;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-106" source="gm9_kd5wZLlUvfbRDpWR-55" target="gm9_kd5wZLlUvfbRDpWR-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1910" y="557" />
+              <mxPoint x="1440" y="557" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-63" value="审核不通过，退回修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];shadow=0;strokeColor=#6c8ebf;swimlaneFillColor=none;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=#7ea6e0;gradientDirection=east;" vertex="1" connectable="0" parent="gm9_kd5wZLlUvfbRDpWR-62">
+          <mxGeometry x="0.0455" y="-3" relative="1" as="geometry">
+            <mxPoint x="-25" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-55" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-106">
+          <mxGeometry x="1870" y="382" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-106" source="gm9_kd5wZLlUvfbRDpWR-53" target="gm9_kd5wZLlUvfbRDpWR-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1870" y="422" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-57" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-106">
+          <mxGeometry x="2040" y="407" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-106" source="gm9_kd5wZLlUvfbRDpWR-41" target="gm9_kd5wZLlUvfbRDpWR-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="596" />
+              <mxPoint x="2050" y="596" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-74" value="不接单，原因（&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ff0000&quot;&gt;主流程撤回到待调度&lt;/font&gt;）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];shadow=0;strokeColor=#6c8ebf;swimlaneFillColor=none;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=#7ea6e0;gradientDirection=east;" vertex="1" connectable="0" parent="gm9_kd5wZLlUvfbRDpWR-73">
+          <mxGeometry x="0.1082" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-106" source="gm9_kd5wZLlUvfbRDpWR-45" target="gm9_kd5wZLlUvfbRDpWR-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1250" y="576" />
+              <mxPoint x="2050" y="576" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-68" value="取消出行，取消事由（&lt;font color=&quot;#ff0000&quot;&gt;主流程撤回到待调度&lt;/font&gt;）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];shadow=0;strokeColor=#6c8ebf;swimlaneFillColor=none;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=#7ea6e0;gradientDirection=east;" vertex="1" connectable="0" parent="gm9_kd5wZLlUvfbRDpWR-67">
+          <mxGeometry x="-0.0716" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-106" source="gm9_kd5wZLlUvfbRDpWR-51" target="gm9_kd5wZLlUvfbRDpWR-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1639" y="442" as="sourcePoint" />
+            <mxPoint x="2070" y="417" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1623" y="517" />
+              <mxPoint x="2050" y="517" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-65" value="业务配置，不需审核" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];shadow=0;strokeColor=#6c8ebf;swimlaneFillColor=none;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=#7ea6e0;gradientDirection=east;" vertex="1" connectable="0" parent="gm9_kd5wZLlUvfbRDpWR-64">
+          <mxGeometry x="-0.026" relative="1" as="geometry">
+            <mxPoint x="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-106" source="gm9_kd5wZLlUvfbRDpWR-55" target="gm9_kd5wZLlUvfbRDpWR-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-61" value="审核通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];shadow=0;strokeColor=#6c8ebf;swimlaneFillColor=none;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=#7ea6e0;gradientDirection=east;" vertex="1" connectable="0" parent="gm9_kd5wZLlUvfbRDpWR-58">
+          <mxGeometry x="-0.0857" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-60" value="出行结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-106">
+          <mxGeometry x="2020" y="437" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-66" value="提交&lt;br&gt;出行记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-106">
+          <mxGeometry x="1505" y="400" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-71" value="车辆调度&lt;br&gt;子流程" style="swimlane;verticalAlign=middle;fontFamily=Verdana;direction=north;html=1;flipH=0;flipV=1;horizontal=1;whiteSpace=wrap;startSize=23;labelPosition=center;verticalLabelPosition=middle;align=center;fillColor=#f8cecc;shadow=0;swimlaneFillColor=none;strokeColor=#b85450;gradientColor=#ea6b66;gradientDirection=east;glass=0;rounded=0;swimlaneLine=0;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-106">
+          <mxGeometry x="600" y="317" width="1520" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-38" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-71">
+          <mxGeometry x="40" y="80" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-72" value="创建调度单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-71">
+          <mxGeometry x="30" y="130" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-95" value="子流程提前终止" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;shadow=0;strokeColor=#5465FF;align=center;verticalAlign=middle;swimlaneFillColor=none;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;fillColor=#dae8fc;gradientColor=#7ea6e0;gradientDirection=east;dashed=1;strokeWidth=2;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-71">
+          <mxGeometry x="280" y="30" width="420" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;" edge="1" parent="gm9_kd5wZLlUvfbRDpWR-106" source="gm9_kd5wZLlUvfbRDpWR-38" target="gm9_kd5wZLlUvfbRDpWR-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-79" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;创建多个调度子流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-106">
+          <mxGeometry x="590" y="269" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-97" value="重新调度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-106">
+          <mxGeometry x="1113" y="277" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-101" value="所有子流程结束&lt;br&gt;主流程出行结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontSize=12;fontColor=default;fontStyle=1;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-106">
+          <mxGeometry x="2025" y="272" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gm9_kd5wZLlUvfbRDpWR-102" value="车辆调度&lt;br&gt;子流程" style="swimlane;verticalAlign=middle;fontFamily=Verdana;direction=north;html=1;flipH=0;flipV=1;horizontal=1;whiteSpace=wrap;startSize=23;labelPosition=center;verticalLabelPosition=middle;align=center;fillColor=#f8cecc;shadow=0;swimlaneFillColor=none;strokeColor=#b85450;gradientColor=#ea6b66;gradientDirection=east;glass=0;rounded=0;swimlaneLine=0;" vertex="1" parent="gm9_kd5wZLlUvfbRDpWR-106">
+          <mxGeometry x="570" y="382" width="1520" height="277" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
