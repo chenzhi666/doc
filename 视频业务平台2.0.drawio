@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T08:56:52.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="hMANJi8Y9u7A8s1YQac5" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T09:03:22.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="tSO5rnx1roef3wtR-3-3" version="24.6.5" type="github">
   <diagram name="第 1 页" id="ErMARPoMUWDb8y-dxczr">
     <mxGraphModel dx="3243" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -267,22 +267,22 @@
         <mxCell id="eeHEsvno81SIFNTqdSMO-132" value="配置管理" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="1590" y="-443" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eeHEsvno81SIFNTqdSMO-133" value="国标配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eeHEsvno81SIFNTqdSMO-133" value="国标配置" style="rounded=1;whiteSpace=wrap;html=1;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;fillColor=#3333FF;fontColor=#000000;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1570" y="-377" width="140" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="eeHEsvno81SIFNTqdSMO-134" value="sdk配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eeHEsvno81SIFNTqdSMO-134" value="sdk配置" style="rounded=1;whiteSpace=wrap;html=1;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;fillColor=#3333FF;fontColor=#000000;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1570" y="-302" width="140" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="eeHEsvno81SIFNTqdSMO-135" value="海康平台配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eeHEsvno81SIFNTqdSMO-135" value="海康平台配置" style="rounded=1;whiteSpace=wrap;html=1;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;fillColor=#3333FF;fontColor=#000000;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1570" y="-224" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eeHEsvno81SIFNTqdSMO-151" value="&lt;b&gt;根据配置注册适配器&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1410" y="-338" width="80" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="eeHEsvno81SIFNTqdSMO-152" value="大华平台配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eeHEsvno81SIFNTqdSMO-152" value="大华平台配置" style="rounded=1;whiteSpace=wrap;html=1;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;fillColor=#3333FF;fontColor=#000000;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1570" y="-150" width="140" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="eeHEsvno81SIFNTqdSMO-153" value="....." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eeHEsvno81SIFNTqdSMO-153" value="....." style="rounded=1;whiteSpace=wrap;html=1;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;fillColor=#3333FF;fontColor=#000000;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1570" y="-78" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eeHEsvno81SIFNTqdSMO-155" value="&lt;b&gt;根据配置注册客户端&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
